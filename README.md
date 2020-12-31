@@ -9,7 +9,7 @@ A previous version of this study can be found here: https://github.com/wifi-swee
 ## Citation
 If you use this code, please cite the next research article:
 
-Jose Saldana1, José Ruiz-Mas, Julián Fernández-Navajas, José Luis Salazar, Jean-Philippe Javaudin, Jean-Michel Bonnamy, and Maël Le Dizes, "Attention to Wi-Fi Diversity: Resource Management in WLANs with Heterogeneous APs," IEEE Access accepted for publication, Jan. 2021.
+Jose Saldana, José Ruiz-Mas, Julián Fernández-Navajas, José Luis Salazar, Jean-Philippe Javaudin, Jean-Michel Bonnamy, and Maël Le Dizes, "Attention to Wi-Fi Diversity: Resource Management in WLANs with Heterogeneous APs," IEEE Access accepted for publication, Jan. 2021.
 
 http://ieeexplore.ieee.org/document/ PENDING
 
@@ -17,14 +17,14 @@ It is an Open Access article.
 
 ## Content of the repository
 
-The `.cc` folder contains the ns3 scripts. They have been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
+The `cc` folder contains the ns3 scripts. They have been run with ns3-30.1 (https://www.nsnam.org/releases/ns-3-30/).
 
 `wifi-central-controlled-aggregation_v261.cc` is the main ns3 file used for the paper.
 
 `wifi-central-controlled-aggregation_v259.cc` has also been used.
 
 
-The folder `sh` contains the files used for obtaining each of the figures presented in the paper.
+The `sh` folder contains the files used for obtaining each of the figures presented in the paper.
 
 - Figure 15 was obtained with `test_lvap_013.sh`.
 
@@ -36,8 +36,6 @@ The folder `sh` contains the files used for obtaining each of the figures presen
 
 - Figure 19 was obtained with `test_lvap_015.sh` and `test_lvap_016.sh`.
 
-
-```
 
 ## How to use it
 
