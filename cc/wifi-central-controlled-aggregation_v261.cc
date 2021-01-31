@@ -6,13 +6,11 @@
  *
  * If you use this code, please cite the next research article:
  *
- * Jose Saldana, Jose Ruiz-Mas, Jose Almodovar, "Frame Aggregation in Central Controlled
- * 802.11 WLANs: the Latency vs. Throughput Trade-off," IEEE Communications Letters,
- * vol.21, no. 2, pp. 2500-2530, Nov. 2017. ISSN 1089-7798.
- * http://dx.doi.org/10.1109/LCOMM.2017.2741940
+ * J. Saldana et al., "Attention to Wi-Fi Diversity: Resource Management in WLANs 
+ * With Heterogeneous APs," in IEEE Access, vol. 9, pp. 6961-6980, 2021,
+ * doi: 10.1109/ACCESS.2021.3049180.
  *
- * http://ieeexplore.ieee.org/document/8013762/
- * Author's self-archive version: http://diec.unizar.es/~jsaldana/personal/amsterdam_2017_in_proc.pdf
+ * https://ieeexplore.ieee.org/document/9314137
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
