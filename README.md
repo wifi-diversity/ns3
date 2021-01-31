@@ -9,9 +9,9 @@ A previous version of this study can be found here: https://github.com/wifi-swee
 ## Citation
 If you use this code, please cite the next research article:
 
-Jose Saldana, José Ruiz-Mas, Julián Fernández-Navajas, José Luis Salazar, Jean-Philippe Javaudin, Jean-Michel Bonnamy, and Maël Le Dizes, "Attention to Wi-Fi Diversity: Resource Management in WLANs with Heterogeneous APs," IEEE Access accepted for publication, Jan. 2021.
+Jose Saldana, José Ruiz-Mas, Julián Fernández-Navajas, José Luis Salazar, Jean-Philippe Javaudin, Jean-Michel Bonnamy, and Maël Le Dizes, "Attention to Wi-Fi Diversity: Resource Management in WLANs with Heterogeneous APs," in IEEE Access, vol. 9, pp. 6961-6980, 2021, doi: 10.1109/ACCESS.2021.3049180.
 
-http://ieeexplore.ieee.org/document/ PENDING
+https://ieeexplore.ieee.org/document/9314137
 
 It is an Open Access article.
 
